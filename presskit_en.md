@@ -31,6 +31,7 @@ Projectors should ideally be hanging from above, so they don't shine into the pe
 - A large screen behind the performers, or three screens, one for each performer.
   - Might just be the wall.   
 - A reasonably powerful PA (audience should be able to feel the sound).
+- If the main speakers are in front of the performers, we'll need monitor speakers.
 - Two stereo DI inputs, one for Iván, one for Niklas.
 - A large table for 3 Laptops (see layout).
   - Alternatively, three individual tables.
