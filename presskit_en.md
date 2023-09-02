@@ -6,7 +6,7 @@ Based in Barcelona, the project was formed in Slovenia on the occasion of a conc
 Their electronic music integrates elements of post-rock, drone, and ambient, and with the tight integration of the visuals, reminds of 
 bands and projects such as Boards of Canada or GY!BE, yet has a very distinct quality due to the way it is created.
 
-All music and visuals are created algorithmically, through the modification of source code live on stage. The code is projected behind the 
+All music and visuals are created algorithmically, through the modification of source code live on stage (see: [https://en.wikipedia.org/wiki/Live_coding](https://en.wikipedia.org/wiki/Live_coding)). The code is projected behind the 
 performers and lets the audience take a glimpse into the creation process, creating a feeling of live-ness that is otherwise rarely found in 
 electronic music.
 
