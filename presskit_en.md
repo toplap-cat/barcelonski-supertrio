@@ -1,6 +1,6 @@
 # Barcelonski supertrio
 
-The "Barcelonski supertrio" is an audiovisual experience created by veteran electronic musicians and visualistss Iván Paz, Roger Pibernat and Niklas Reppel.
+The "Barcelonski supertrio" is an audiovisual experience created by veteran electronic musicians and visualists Iván Paz, Roger Pibernat and Niklas Reppel.
 Based in Barcelona, the project was formed in Slovenia on the occasion of a concert at Kluže Fortress in 2023 (see here: [https://pif.camp/piftopia-from-krn-to-kluze-pifwednesday-2/](https://pif.camp/piftopia-from-krn-to-kluze-pifwednesday-2/)). 
 
 Their electronic music integrates elements of post-rock, drone, and ambient, and with the tight integration of the visuals, reminds of 
