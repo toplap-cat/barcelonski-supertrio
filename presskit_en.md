@@ -13,13 +13,24 @@ electronic music.
 ![supertrio_small.jpg](supertrio_small.jpg)
 Photo: Katja Goljat, Matjaž Rušt
 
-
 [VIDEO LINK]
 
 # Technical Requirements 
 
-- projectors with HDMI inputs (3 Projectors, one for each performer, or one projector and a video mixer)
-- large screen behind the performers
-- powerful PA
-- two stereo DI inputs
-- A large table for 3 Laptops 
+## Stage Layout
+![stage_layout.svg](stage_layout.svg)
+
+Projectors should ideally be hanging from above, so they don't shine into the performer's faces, but compromises can be made, depending on the location.
+
+## Required Material
+
+- Projectors with HDMI inputs.
+  - Ideally three projectors, one for each performer. 
+  - Alternatively, one projector and a video mixer.
+  - The code of every performer should be visible.
+- A large screen behind the performers, or three screens, one for each performer.
+  - Might just be the wall.   
+- A reasonably powerful PA (audience should be able to feel the sound).
+- Two stereo DI inputs, one for Iván, one for Niklas.
+- A large table for 3 Laptops (see layout).
+  - Alternatively, three individual tables.
