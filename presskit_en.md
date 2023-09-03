@@ -10,6 +10,8 @@ All music and visuals are created algorithmically, through the modification of s
 performers and lets the audience take a glimpse into the creation process, creating a feeling of live-ness that is otherwise rarely found in 
 electronic music.
 
+The music is meant to be played in open spaces, ideally with massive walls.
+
 ![supertrio_small.jpg](supertrio_small.jpg)
 Photo: Katja Goljat, Matjaž Rušt
 
