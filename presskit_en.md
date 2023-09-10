@@ -29,7 +29,8 @@ Projectors should ideally be hanging from above, so they don't shine into the pe
 - Projectors with HDMI inputs.
   - Ideally three projectors, one for each performer. 
   - Alternatively, one projector and a video mixer.
-  - The code of every performer should be visible.
+  - Roger's visuals must be visible at all times.
+  - The code of every performer should be visible. The code of the music performers might be overlayed on one screen if necessary.
 - A large screen behind the performers, or three screens, one for each performer.
   - Might just be the wall.   
 - A reasonably powerful PA (audience should be able to feel the sound).
