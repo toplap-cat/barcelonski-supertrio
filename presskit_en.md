@@ -15,7 +15,7 @@ The music works best when played inside massive walls, but without a roof, like 
 ![supertrio_small.jpg](supertrio_small.jpg)
 Photo: Katja Goljat, Matjaž Rušt
 
-[VIDEO LINK]
+Demo Video: ![https://vimeo.com/870385923/fffef457f6?share=copy](https://vimeo.com/870385923/fffef457f6?share=copy)
 
 # Technical Requirements 
 
